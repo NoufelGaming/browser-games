@@ -2,7 +2,7 @@
 
 No downloads. Open the site, search, filter, hit Play.
 
-- Live site: `https://NoufelGaming.github.io/browser-games/` (after enabling Pages)
+- Live site: `https://NoufelGaming.github.io/browser-games/`
 - Data: `browser-games-sources.json` (auto-updated with first-seen dates)
 - Scanner: `rescan-browser-games.ps1`
 
