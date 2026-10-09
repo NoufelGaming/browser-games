@@ -3,12 +3,11 @@
 No downloads. Open the site, search, filter, hit Play.
 
 - Live site: `https://NoufelGaming.github.io/browser-games/`
-- Data: `browser-games-sources.json` (auto-updated with first-seen dates)
+- Data: `browser-games-sources.json` 
 - Scanner: `rescan-browser-games.ps1`
 
-## Zero-effort automation (already wired)
-- `.github/workflows/update-games.yml` rescans the 3 indexes every Sunday + on demand (Actions > Run workflow).
-- New games get a NEW badge automatically and appear in "New since last scan".
+## Zero-effort automation
+- `.github/workflows/update-games.yml` rescans the 3 indexes every Sunday + on demand.
 - Dead links keep a CHECK LINK badge for 30 days instead of vanishing.
 - GitHub Pages redeploys on every push. You do nothing after setup.
 
